@@ -1,0 +1,109 @@
+{
+  "festival.name": "Festival de l'Amour",
+
+  // Dialogues
+  "Dialogue.Evelyn": "Je me souviens encore d'avoir envoyé ma toute première lettre d'amour à George.#$b#Il n'a pas été bouleversé au début.$s",
+  "Dialogue.Alex": "Je ne vais peut-être pas recevoir beaucoup de lettres cette année, mais dès que je deviendrai professionnel, tout le monde voudra être avec moi.",
+  "Dialogue.Clint": "Penses-tu qu'Emily va me donner sa lettre d'amour?$3",
+  "Dialogue.Caroline": "Malheureusement, Pierre n'a pas le temps de fabriquer des lettres d'amour pour moi. Apparemment, il est trop occupé avec son magasin$2",
+  "Dialogue.Shane": "Cela ne me dérangerait pas si nous sautons ce festival.",
+  "Dialogue.Willy": "Un vieux capitaine comme moi aimera toujours sa vieille machine d'exploration maritime.",
+  "Dialogue.Abigail": "J'ai vraiment envie de câliner le nounours.",
+  "Dialogue.Robin": "Chaque fois que je danse avec Demetrius, j'ai l'impression de tomber amoureuse de lui pour la première fois.$h",
+  "Dialogue.Demetrius": "Être amoureux, c'est comme être sous l'effet de drogues. Tu savais ça ?",
+  "Dialogue.Maru": "Je me demande s'il est possible de manipuler les sentiments avec la technologie.",
+  "Dialogue.Sebastian": "Je ne serais pas ici si ma mère ne m'y forçait pas.",
+  "Dialogue.Pierre": "Je te recommande vivement d'acheter des lettres d'amour chez Pierre.",
+  "Dialogue.Linus": "Je n'ai jamais reçu de lettre d'amour.$s#$b#Je me demande s'ils savent encore que j'existe.$s",
+  "Dialogue.George": "Ahh... L'amour est dans l'air. C'est mieux que n'importe quelle romance à la télévision.$h",
+  "Dialogue.Lewis": "Personnellement, c'est le meilleur événement de l'année. J'aime toujours voir les jeunes échanger leurs sentiments.$h",
+  "Dialogue.Emily": "$y '@! Penses-tu que tu vas recevoir une lettre d'amour?_Certainement._Eh bien, je te souhaite bonne chance._Je ne pense pas._Ne sois pas triste, je suis sûr que tu en recevras une l'année prochaine.'",
+  "Dialogue.Haley": "J'espère que la personne qui va m'offrir une lettre d'amour sera bien habillée.",
+  "Dialogue.Penny": "Oh... salut @. Je ne t'attendais pas maintenant.",
+  "Dialogue.Pam": "Je suis juste venue pour les pralines.",
+  "Dialogue.Jodi": "Quand j'étais enfant, j'adorais ce festival.",
+  "Dialogue.Marnie": "J'espère recevoir une lettre de quelqu'un de spécial cette année.",
+  "Dialogue.Leo": "Je reçois toujours des lettres d'amour des perroquets... Mais cette fois, ce sont des noix.",
+  "Dialogue.Vincent": "Maman dit que je suis trop jeune pour comprendre ça.$2",
+  "Dialogue.Jas": "J'ai écrit une lettre à Vincent.$h#$b#Ne lui dis pas, d'accord ?",
+  "Dialogue.Sandy": "Oh, salut @.#$b#Tu es excité pour tes lettres ? Je suis sûre que les gens qui travaillent dur sont attirants.",
+  "Dialogue.Harvey": "L'amour peut vraiment être un médicament.",
+  "Dialogue.Wizard": "Ne me demande pas de sorts d'amour.",
+  "Dialogue.Gus": "Si tu prévois de demander quelqu'un en mariage, n'oublie pas de passer chez moi.$h",
+  "Dialogue.Leah": "Cet événement me rappelle toujours mon ex.$s",
+  "Dialogue.Sam": "Un jour, je veux organiser un concert pendant la cérémonie des lettres d'amour.",
+  "Dialogue.Elliott": "Le Festival de l'Amour... Il inspire de nouvelles harmonies et une touche douce dans mon esprit. Il est temps d'écrire un roman.",
+  "Dialogue.Kent": "Ce festival m'a vraiment manqué. Ça fait du bien d'être ici à nouveau.$h",
+  "Dialogue.Marlon": "Eh bien, je pensais vous tenir compagnie aujourd'hui.",
+  "Dialogue.Haley_spouse": "Devine qui recevra ma lettre d'amour.$h",
+  "Dialogue.Leah_spouse": "Cet événement me rendait triste à cause de mes expériences passées, mais maintenant qu'on est ensemble, c'est différent.$h",
+  "Dialogue.Abigail_spouse": "Puisque je ne peux pas câliner le nounours, je peux te câliner toi à la place ?$h",
+  "Dialogue.Emily_spouse": "Salut mon amour, je suis en train de préparer ta lettre d'amour.$h",
+  "Dialogue.Maru_spouse": "Un jour, je vais créer une lettre scientifique pour toi",
+  "Dialogue.Penny_spouse": "Salut mon amour, on fait quelque chose après ça ?",
+  "Dialogue.Elliott_spouse": "Des lettres d'amour pour toi ?#$b#Que dirais-tu que j'écrive un roman pour toi ?",
+  "Dialogue.Alex_spouse": "Tu veux qu'on dîne romantiquement après ça ?",
+  "Dialogue.Sebastian_spouse": "Avant, je n'aimais pas participer à ce festival. Maintenant, c'est l'inverse.$h",
+  "Dialogue.Shane_spouse": "J'ai l'impression que ma dépression a disparu quand je suis ici avec toi.$h",
+  "Dialogue.Sam_spouse": "Si tu veux, je peux jouer de la musique romantique pour toi.$h",
+  "Dialogue.Harvey_spouse": "Oh salut @... J'ai failli avoir un malaise cardiaque sain.$h",
+
+  //Invitation Letters
+  "Letter.NextDay": "Dear @, ^Don't forget about the Love Festival tomorrow, starting at 9AM in the town.^Make sure you will give someone your love letter. ^-Mayor Lewis",
+  "Letter.WeekBefore": "Dear @, ^In just one week, the Love Festival will be here. ^I hope you've made plenty of friends this year because you won't want to miss out on the festivities. ^It all begins at 9 AM, so mark your calendar! ^-Mayor Lewis",
+
+  //Love Letters
+  "LoveLetter.FoodMail": "Bonjour @... < ^J'apprécie vraiment ta compagnie, et j'ai eu l'impression que tu apporterais de l'excitation à la vie dans la vallée. ^Pour exprimer ma gratitude, j'ai préparé un repas spécial rien que pour toi <",
+  "LoveLetter.VegetableMail": "Salut @... ^Tu ne sais peut-être pas ça, mais j'ai une grande affection pour tes animaux de ferme, et je vois l'attention que tu leur portes. ^C'est pourquoi je t'offre des légumes frais. Peut-être que tes animaux apprécieront aussi cette friandise.",
+  "LoveLetter.MoneyMail": "Cher @, ^Chaque fois que tu viens, tu illumines ma journée, et ta présence me fait toujours sourire. <^Si jamais tu as besoin de parler à quelqu'un, je serai toujours là pour toi.",
+  "LoveLetter.CropMail": "Salut @..., ^Je suis vraiment impressionné par ton travail à la ferme. < ^Je dois avouer que je suis un peu jaloux, alors j'ai essayé de planter des cultures, mais ce n'est pas vraiment une réussite... ^C'est pourquoi je t'offre mes graines restantes. Je sais qu'elles seront entre de bonnes mains.",
+  "LoveLetter.GemMail": "Salut @... < ^Je pense qu'il est temps de te récompenser pour toutes les améliorations que tu as apportées à notre belle vallée. ^Tu nous divertis tous, surtout moi. Récemment, j'ai trouvé ce bijou, mais je ne sais pas trop quoi en faire. J'espère qu'il te plaira.",
+
+  //Send Letter
+  "SendLetter.Message": "Oui...?",
+  "SendLetter.Yes": "Donner une lettre d'amour à {{name}}?",
+  "SendLetter.No": "Annuler",
+
+  //Lewis Start message
+  "StartMessage.Question": "@! Es-tu prêt à recevoir tes lettres d'amour ?",
+  "StartMessage.AnswerYes": "Oui",
+  "StartMessage.AnswerNo": "Non",
+
+  //Dates
+  "LoveFestivalDates.Question": "Sortir en rendez-vous avec {{npc}} ?",
+  "LoveFestivalDates.DateRejected": "Oh je comprends...$s#$b#Tu es trop occupé avec ta ferme.$s",
+
+  //Letter Given Reactions
+  "ReceiveLetterReaction.Flattered": "C'est pas vrai, tu m'as choisi. Je suis flatté$h",
+  "ReceiveLetterReaction.notExpected": "Wow @, je ne m'y attendais pas du tout.$h",
+  "ReceiveLetterReaction.Romantic": "Aww, c'est tellement romantique @.$h",
+
+  //NPC Gift Letter Dialogue
+  "npcGiftingLetter.WroteLetterForYou": "Bonjour @, j'ai écrit cette lettre rien que pour toi. J'espère qu'elle te plaira.",
+  "npcGiftingLetter.AskValentine": "Euh... @$h#$b#Voudrais-tu mieux me connaître ? Regarde ce que j'ai préparé pour toi.$h",
+  "npcGiftingLetter.ExpressFeelings": "Salut @, je sais que tu as peut-être des sentiments partagés, mais quoi qu'il en soit, je voulais exprimer mes sentiments pour toi.$h",
+  "npcGiftingLetter.Admire": "Salut @...#$b#Je t'ai toujours admiré(e) et l'incroyable travail que tu fais à la ferme. C'est vraiment impressionnant et ça donne beaucoup de vie à la vallée. #$b#C'est pour ça que je t'offre ça.$h",
+  "npcGiftingLetter.AskForDate": "Salut @...#$b#Je crois que les cadeaux sont ennuyeux. C'est pourquoi je te propose un rendez-vous.$h#$b#Regarde ça.",
+
+  //Extras
+  "MarnieReaction.Start": "Bon @, il est temps de recevoir tes lettres d'amour.",
+  "MarnieReaction.NoLoveLetters": "Eh bien, on dirait que personne ne veut te donner des lettres d'amour cette année.$s",
+  "JealousyDialogue.Spouse": "Au fait, j'apprécie vraiment que tu ne m'aies pas donné ta lettre d'amour...$s",
+  "Calendar.ChooseDate": "Choisis un jour pour ton rendez-vous (Festivals exclus)",
+  "CupidStore.BuyArrow": "Hé toi... Je peux tirer une flèche d'amour sur quelqu'un. Cela augmentera drastiquement ton gain d'amitié pendant une semaine. Tu veux tenter ?",
+  "CupidStore.Yes": "Oui (2500g)",
+  "CupidStore.Success": "Gain d'amitié augmenté de 20% pendant une semaine avec {{name}}.",
+  "CupidStore.AlreadyBought": "Tu as déjà acheté un multiplicateur d'amitié.",
+  "Misc.NotEnoughMoney": "Tu n'as pas assez d'argent.",
+  "CupidStore.Menu.UIHint": "Sélectionne ta cible & double-clique",
+
+  //Config
+  "Config.TestDateActorName": "Nom de l'acteur pour les tests de rendez-vous",
+  "Config.TestDateActorNameDescription": "Le nom du PNJ qui doit agir comme partenaire de rendez-vous lors des tests. Tu peux l'ignorer si tu ne l'utilises pas.",
+  "Config.SpouseAlwaysGivingLetter": "Le conjoint donne toujours une lettre",
+  "Config.MinHeartsRequired": "Cœurs minimum requis",
+  "Config.ChancePerHeart": "Chance par cœur (en %)",
+  "Config.ChancePerHeartDescription": "La chance de recevoir une lettre d'un PNJ. Chaque cœur augmente la chance de x pour cent (par exemple, 6 cœurs, 10% pour chaque cœur = 60% de chance de recevoir une lettre de ce PNJ)",
+  "Config.MoneyLetterPulsating": "Lettre d'argent pulsante",
+  "Config.MoneyLetterPulsatingDescription": "La couleur du montant d'argent de la lettre pulsée changera."
+}
