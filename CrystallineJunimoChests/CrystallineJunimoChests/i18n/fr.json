@@ -1,0 +1,34 @@
+{
+  // Message displayed when the player does not have the required cost
+  "message.alert": "Vous avez besoin de {{cost}} {{item}} pour infuser ce {{chest}} et le teindre en {{color}}.",
+  // Message displayed when the player has the required cost
+  "message.confirm": "Dépenser {{cost}} {{item}} pour rendre ce {{chest}} {{color}} ?",
+  // Color names
+  "color.Dark Blue": "Bleu foncé",
+  "color.Blue": "Bleu",
+  "color.Teal": "Bleu canard",
+  "color.Turquoise": "Turquoise",
+  "color.Green": "Vert",
+  "color.Light Green": "Vert clair",
+  "color.Yellow": "Jaune",
+  "color.Gold": "Or",
+  "color.Orange": "Orange",
+  "color.Red": "Rouge",
+  "color.Maroon": "Bordeaux",
+  "color.Pink": "Rose",
+  "color.Hot Pink": "Rose vif",
+  "color.Magenta": "Magenta",
+  "color.Indigo": "Indigo",
+  "color.Purple": "Violet",
+  "color.Black": "Noir",
+  "color.Gray": "Gris",
+  "color.Silver": "Argent",
+  "color.White": "Blanc",
+  // Config options
+  "config.gem-cost.name": "Coût en gemmes",
+  "config.gem-cost.tooltip": "Nombre de gemmes requises pour changer la couleur.",
+  "config.sound.name": "Son",
+  "config.sound.tooltip": "Jouer un son lorsque la couleur est changée.",
+  // Chest name (for Better Chests)
+  "chest.name": "Coffre Junimo {{color}}"
+}
