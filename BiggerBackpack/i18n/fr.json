@@ -1,0 +1,8 @@
+{
+    // Translation provided by: <leave your name or nexus/discord username here>
+    "SetBackpackSizeCommand": "Définir la taille du sac à dos du joueur. Celle-ci doit être un multiple de 12",
+    "Purchase": "Acheter ({{cost}}g)",
+    "BackpackUpgrade": "Amélioration du sac à dos -- 48 emplacements",
+    "PremiumPack": "Pack Premium",
+    "BackpackCostName": "Coût du sac à dos", "BackpackCostTooltip": "Montant à payer pour acheter ce sac à dos en boutique."
+}
