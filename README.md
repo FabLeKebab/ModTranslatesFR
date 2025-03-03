@@ -7,7 +7,7 @@ Bienvenue sur **ModTranslatesFR** ! Ce dépôt contient des traductions de diff�
 Actuellement, j'ai traduit les mods suivants en français :
 
 - [**[CP] AdventCalendar**](https://www.nexusmods.com/stardewvalley/mods/29868)
-- [**Custom NPC Paintings**](https://www.nexusmods.com/stardewvalley/mods/26228)
+- [**[CP] Custom NPC Paintings**](https://www.nexusmods.com/stardewvalley/mods/26228)
 - [**[CP] Fish Bonanza**](https://www.nexusmods.com/stardewvalley/mods/28447)
 - [**[CP] Miihaus Abigail Event Expansion**](https://www.nexusmods.com/stardewvalley/mods/18657)
 - [**[CP] Miihaus Fox Pets**](https://www.nexusmods.com/stardewvalley/mods/27660)
