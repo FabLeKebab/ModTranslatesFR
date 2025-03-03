@@ -1,0 +1,12 @@
+{
+  "NormalSaloon": "Bienvenue au Stardrop Saloon ! Puis-je vous servir quelque chose ?",
+  "NormalSaloon4": "Salut @. Installe-toi confortablement.",
+  "NormalSaloon8": "Salut @. Je suis content de te voir ! Tu es toujours le bienvenu ici.",
+  "NormalSaloonTue": "Salut ! Détends-toi et profite de l'endroit.",
+  "NormalSaloonThu": "Hé, on dirait que tu pourrais avoir besoin d'une boisson.",
+  "NormalSaloonFri": "Les affaires vont vraiment bien ce soir. Je suis content.",
+  "BuyARound": "J'aimerais offrir une tournée.",
+  "BuyARoundResponse": "Ça arrive tout de suite !",
+  "DontBuyARound": "Rien.",
+  "DontBuyARoundResponse": "Fais-le moi savoir !"
+}
