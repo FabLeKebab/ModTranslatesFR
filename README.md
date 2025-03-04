@@ -30,9 +30,11 @@ Actuellement, j'ai traduit les mods suivants en français :
 - [**Lumisteria Special Orders**](https://www.nexusmods.com/stardewvalley/mods/7417)
 - [**Quality Bait**](https://www.nexusmods.com/stardewvalley/mods/16832)
 - [**ResponseCore**](https://www.nexusmods.com/stardewvalley/mods/8284)
+- [**SmartBuilding**](https://www.nexusmods.com/stardewvalley/mods/11158)
 - [**SkillRings**](https://www.nexusmods.com/stardewvalley/mods/7515)
 - [**ThisRoundsOnMe**](https://www.nexusmods.com/stardewvalley/mods/27683)
 - [**Wild Animals**](https://www.nexusmods.com/stardewvalley/mods/9063)
+- [**ZoomLevel**](https://www.nexusmods.com/stardewvalley/mods/7363)
 
 Chaque traduction de mod est disponible dans le dossier correspondant. N'hésitez pas à les explorer et à les utiliser pour vos propres mods si elles vous sont utiles !
 
