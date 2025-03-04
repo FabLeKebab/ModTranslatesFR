@@ -1,0 +1,259 @@
+{
+				//Animal
+				
+				
+				"EmilyWarmCloth_Name_Translated": "Commande de Tissu Chaud",
+				"EmilyWarmCloth_Text_Translated": "{Text} Toute personne qui expédie 15 rouleaux de tissu dans le temps imparti recevra une récompense !",
+				"EmilyWarmCloth_Objective_0_Text_Translated": "Collecter 15 rouleaux de tissu.",
+				"EmilyWarmCloth_Objective_1_Text_Translated": "Expédier 15 rouleaux de tissu.",
+				"EmilyWarmCloth_RE_Text_0_Translated": "L'hiver sera particulièrement rude cette année, alors j'aimerais fabriquer des couvertures chaudes pour les villageois.",
+				"EmilyWarmCloth_RE_Text_1_Translated": "J'ai besoin de matériaux pour un projet : fabriquer des couvertures afin que les villageois restent au chaud en hiver.",
+				
+				"EmilyWarmClothMail_Translated": "@,^Merci d'apporter de la chaleur à la ville pendant l'hiver.^Avec le beau tissu que tu as fourni, j'ai fabriqué des couvertures et des chaussettes pour les autres villageois. Tu as transmis une énergie positive, alors voici un peu d'énergie positive en retour.^^   -Emily",
+				"EmilyWarmClothMail_Title_Translated": "Remerciements pour la Commande de Tissu Chaud",
+				
+				//Cook
+				"GusSweetDishes_Name_Translated": "Commande de Plats Sucrés",
+				"GusSweetDishes_Text_Translated": "{Text} Toute personne qui prépare 10 plats sucrés et les offre aux habitants recevra une récompense. N'oublie pas, ils doivent les apprécier, sinon cela ne comptera pas !",
+				"GusSweetDishes_Objective_0_Text_Translated": "Cuisiner 10 plats sucrés.",
+				"GusSweetDishes_Objective_1_Text_Translated": "Offrir 10 plats sucrés appréciés.",
+				"GusSweetDishes_RE_Text_0_Translated": "Voir d'autres personnes cuisiner est inspirant.",
+				"GusSweetDishes_RE_Text_1_Translated": "Nous avons tous besoin d'un peu de douceur dans nos vies.",
+				
+				"GusSweetDishesMail_Translated": "@,^J'espère que tu as pris plaisir à relever mon petit défi !^Le sirop d'érable est un ingrédient essentiel de mes plats sucrés. Voici un extracteur si tu veux récolter du sirop frais.^^   -Gus",
+				"GusSweetDishesMail_Title_Translated": "Remerciements pour la Commande de Plats Sucrés",
+
+				
+				"GusCooking_Name_Translated": "Commande de Cuisine",
+				"GusCooking_Text_Translated": "{Text} Toute personne qui cuisine 25 plats en une semaine recevra une récompense.",
+				"GusCooking_Objective_0_Text_Translated": "Cuisiner 25 plats.",
+				"GusCooking_Objective_1_Text_Translated": "Expédier 25 plats.",
+				"GusCooking_RE_Text_0_Translated": "Mon objectif est d'encourager plus de gens à cuisiner. Rejoins-moi pour un petit concours.",
+				"GusCooking_RE_Text_1_Translated": "J'ai besoin d'un petit défi pour stimuler ma créativité.",
+				
+				"GusCookingMail_Translated": "@,^Je suis ravi que tu aies répondu à ma demande. J'ai à nouveau plein d'idées !^Accepte ces bouteilles de vinaigre en guise de petit cadeau. Une touche acide peut faire des merveilles dans de nombreux plats.^^   -Gus",
+				"GusCookingMail_Title_Translated": "Remerciements pour la Commande de Cuisine",
+				
+				
+				"GusRareIngredients_Name_Translated": "Commande d'Ingrédients Rares",
+				"GusRareIngredients_Text_Translated": "{Text} Toute personne qui place 5 {RareIngredients:TextPlural} dans mon frigo à temps recevra une récompense !",
+				"GusRareIngredients_Objective_0_Text_Translated": "Produire ou récolter 5 {RareIngredients:TextPlural}.",
+				"GusRareIngredients_Objective_1_Text_Translated": "Mettre les 5 {RareIngredients:TextPlural} dans le frigo de Gus.",
+				"GusRareIngredients_RE_Text_0_Translated": "À l'aide ! J'ai besoin de {RareIngredients:TextPlural} frais.",
+				"GusRareIngredients_RE_Text_1_Translated": "Mon stock de {RareIngredients:TextPlural} est au plus bas, et je ne peux en trouver nulle part.",
+				
+				"GusRareIngredientsMail_Translated": "@,^Merci de m'avoir fourni les ingrédients qui me manquaient !^Voici un petit quelque chose que j'ai préparé pour toi en retour. Passe une bonne journée.^^   -Gus",
+				"GusRareIngredientsMail_Title_Translated": "Remerciements pour la Commande d'Ingrédients Rares",
+				
+				"LewisBreakfastDishes_Name_Translated": "Commande de Petit-Déjeuner",
+				"LewisBreakfastDishes_Text_Translated": "Pelican Town rejoint un programme visant à fournir des petits-déjeuners aux enfants. Toute personne qui cuisine 10 plats de petit-déjeuner et les expédie à temps recevra une récompense du Fonds Éducatif de Pelican Town.",
+				"LewisBreakfastDishes_Objective_0_Text_Translated": "Cuisiner 10 plats de petit-déjeuner.",
+				"LewisBreakfastDishes_Objective_1_Text_Translated": "Expédier 10 plats de petit-déjeuner.",	
+				
+				"LewisBreakfastDishesMail_Translated": "@,^Je voulais te remercier pour ta participation au programme de Pelican Town visant à fournir des petits-déjeuners aux enfants. Cela les aide à mieux se concentrer à l'école.^Les enfants voulaient aussi te remercier et t'ont envoyé une étrange trouvaille qu'ils ont faite lors d'une de leurs excursions.^^   -Lewis",
+				"LewisBreakfastDishesMail_Title_Translated": "Remerciements pour la Commande de Petit-Déjeuner",
+				
+				
+				//evelyn soup	
+				"EvelynSoupDishes_Name_Translated": "Commande de Soupe",
+				"EvelynSoupDishes_Text_Translated": "Dans le froid de l'hiver, quoi de mieux qu'une soupe traditionnelle au coin du feu pour se réchauffer ? Si quelqu'un peut cuisiner 10 soupes et les expédier à temps, je lui offrirai une récompense.",
+				"EvelynSoupDishes_Objective_0_Text_Translated": "Cuisiner 10 soupes.",
+				"EvelynSoupDishes_Objective_1_Text_Translated": "Expédier 10 soupes.",	
+				
+				"EvelynSoupDishesMail_Translated": "@ cher/chère,^C'était très gentil de ta part de répondre à ma commande. Dans le froid de l'hiver, un bol de soupe fait des merveilles pour réchauffer les cœurs.^Et voir quelqu'un aider les autres est tout aussi réconfortant. Essaye d'ajouter un peu d'huile dans une soupe chaude, cela en révèle tellement de saveurs.^^   -Evelyn",
+				"EvelynSoupDishesMail_Title_Translated": "Remerciements pour la Commande de Soupe",		
+				
+				
+				//Farmer 
+
+
+				"HarveyVeggieProgram_Name_Translated": "Commande du Programme Légumes",
+				"HarveyVeggieProgram_Text_Translated": "{Text} Toute personne qui cultive et expédie 260 légumes recevra une récompense du Fonds Agricole et du Fonds Santé de la ville.",
+				"HarveyVeggieProgram_Objective_0_Text_Translated": "Cultiver 260 légumes.",
+				"HarveyVeggieProgram_Objective_1_Text_Translated": "Expédier 260 légumes.",
+				"HarveyVeggieProgram_RE_Text_0_Translated": "Fournir une diversité de légumes frais au marché local ne peut qu'améliorer la santé.",
+				"HarveyVeggieProgram_RE_Text_1_Translated": "Les gens sont plus enclins à acheter des légumes s'ils les voient en magasin.",
+				
+				"HarveyVeggieProgramMail_Translated": "@,^Merci d'avoir participé à mon programme.^Si tu as trop de légumes, pense à faire des conserves. Les pickles ont aussi des bienfaits pour la santé !^^   -Harvey",
+				"HarveyVeggieProgramMail_Title_Translated": "Remerciements pour la Commande du Programme Légumes",
+				
+				
+
+				"GusHotPeppers_Name_Translated": "Commande de Piments Forts",
+				"GusHotPeppers_Text_Translated": "{Text} Toute personne qui peut en cultiver et les expédier recevra une récompense.",
+				"GusHotPeppers_Objective_0_Text_Translated": "Cultiver 15 {Crop:TextPlural}.",
+				"GusHotPeppers_Objective_1_Text_Translated": "Expédier 15 {Crop:TextPlural}.",
+				"GusHotPeppers_Objective_2_Text_Translated": "Cultiver 15 Habaneros.",
+				"GusHotPeppers_Objective_3_Text_Translated": "Expédier 15 Habaneros.",
+				"GusHotPeppers_RE_Text_0_Translated": "Mes ingrédients viennent à manquer, et j'ai besoin de piments forts frais. Pas n'importe lesquels, uniquement ceux spécifiés.",
+				"GusHotPeppers_RE_Text_1_Translated": "Une seule sorte de sauce piquante ne suffit pas, et pour en faire plus, j'ai besoin de variétés spécifiques de piments.",
+				
+				"GusHotPeppersMail_Translated": "@,^Grâce à ton aide, j'ai pu préparer une nouvelle sauce piquante pour mes plats.^Avoir le bon ingrédient est essentiel pour certaines recettes. Voici une machine qui pourrait t’être utile pour fabriquer tes propres produits.^^   -Gus",
+				"GusHotPeppersMail_Title_Translated": "Remerciements pour la Commande de Piments Forts",
+				
+				//Fighter
+				
+				"WizardMonsterArcaneStudy_Name_Translated": "Commande d'Étude Arcanique",
+				"WizardMonsterArcaneStudy_Text_Translated": "Je cherche à en apprendre plus sur {Monster:LocalizedName}. Toute personne capable d'en vaincre 10 recevra une récompense.",
+				"WizardMonsterArcaneStudy_Objective_0_Text_Translated": "Vaincre 10 {Monster:LocalizedName}.",
+				"WizardMonsterArcaneStudy_RE_Monster_0_LocalizedName_Translated": "Fantômes de Carbone",
+				"WizardMonsterArcaneStudy_RE_Monster_1_LocalizedName_Translated": "Momies",
+				
+				"WizardMonsterArcaneStudyMail_Translated": "@,^Mes recherches progresseront grâce à ces nouvelles connaissances.^En échange, voici un plat imprégné de propriétés magiques que tu pourrais apprécier.^^   -M. Rasmodius",
+				"WizardMonsterArcaneStudyMail_Title_Translated": "Remerciements pour la Commande d'Étude Arcanique",
+				
+				
+				"WizardPepperRexStudy_Name_Translated": "Commande d'Étude sur le Pepper Rex",
+				"WizardPepperRexStudy_Text_Translated": "Je cherche à en apprendre plus sur le Pepper Rex. Toute personne capable d'en vaincre 3 recevra une récompense.",
+				"WizardPepperRexStudy_Objective_0_Text_Translated": "Vaincre 3 Pepper Rex.",
+
+				"WizardPepperRexStudyMail_Translated": "@,^Ces créatures ont des propriétés intéressantes...^Comme je pourrais avoir besoin de ton aide à l'avenir, voici quelques potions que j'ai concoctées.^^   -M. Rasmodius",
+				"WizardPepperRexStudyMail_Title_Translated": "Remerciements pour la Commande d'Étude sur le Pepper Rex",
+				
+
+				"WillyMagmaVolcano_Name_Translated": "Commande d'Investigation du Volcan",
+				"WillyMagmaVolcano_Text_Translated": "J'ai vu des vagues plus grandes et plus de fumée que d'habitude autour du volcan. Quelqu'un peut-il enquêter et voir s'il est possible de rétablir la situation ?",
+				"WillyMagmaVolcano_Objective_0_Text_Translated": "Vaincre 25 Magma Sprites ou Magma Sparklers.",
+
+				"WillyMagmaVolcanoMail_Translated": "@,^Tout est rentré dans l'ordre. Je ne sais pas ce que tu as fait, mais c'était efficace.^Voici quelques objets que j'ai récupérés dans l'eau près de la plage, peut-être te seront-ils utiles ?^^   -Willy",
+				"WillyMagmaVolcanoMail_Title_Translated": "Remerciements pour la Commande d'Investigation du Volcan",
+				
+				//Fisher
+				
+				
+				"DemetriusCrabPotStudy_Name_Translated": "Commande d'Étude sur les Casiers à Crabes",
+				"DemetriusCrabPotStudy_Text_Translated": "{Text} Toute personne qui collecte 25 poissons dans des casiers à crabes et les livre à la réserve de Robin recevra une récompense.",
+				"DemetriusCrabPotStudy_Objective_0_Text_Translated": "Collecter 25 poissons dans des casiers à crabes.",
+				"DemetriusCrabPotStudy_Objective_1_Text_Translated": "Ajouter 25 poissons de casiers à crabes à la réserve chez Robin.",
+				"DemetriusCrabPotStudy_RE_Text_0_Translated": "Je collecte des données et j'ai besoin d'échantillons.",
+				"DemetriusCrabPotStudy_RE_Text_1_Translated": "J'ai besoin de spécimens frais pour une étude.",
+				
+				"DemetriusCrabPotStudyMail_Translated": "@,^Les spécimens que tu as collectés sont très intéressants ! Mon étude progressera grâce à cela.^Si tu récupères souvent des choses dans l'eau, tu finiras aussi par ramasser des déchets. Voici une machine qui pourra t'aider à les recycler.^^   -Démétrius",
+				"DemetriusCrabPotStudyMail_Title_Translated": "Remerciements pour la Commande d'Étude sur les Casiers à Crabes",
+				
+				
+				
+				//Florist
+				
+				
+				
+				
+				"LewisFlowers_Name_Translated": "Commande de Fleurs",
+				"LewisFlowers_Text_Translated": "{Text} Toute personne qui expédie 40 {Crop:TextPlural} dans le délai imparti recevra une récompense conséquente du Fonds Agricole de Pelican Town.",
+				"LewisFlowers_Objective_0_Text_Translated": "Expédier 40 {Crop:TextPlural}.",
+				"LewisFlowers_Objective_1_Text_Translated": "Récolter 40 {Crop:TextPlural}.",
+				"LewisFlowers_RE_Text_0_Translated": "{Crop:TextPlural} sont très demandées cette année.",
+				"LewisFlowers_RE_Text_1_Translated": "Apparemment, les {Crop:TextPlural} sont la dernière tendance à Zuzu City.",
+				"LewisFlowers_RE_Text_2_Translated": "Une marque fait des recherches pour son nouveau parfum et a besoin d'une grande quantité de {Crop:TextPlural}.",
+				"LewisFlowers_RE_Text_3_Translated": "Un décorateur populaire utilise des {Crop:TextPlural}. Maintenant, tout le monde en veut un !",
+				"LewisFlowers_RE_Text_4_Spring_Translated": "Pour la prochaine Danse des Fleurs, Pelican Town a grandement besoin de {Crop:TextPlural}.",
+				"LewisFlowers_RE_Text_4_Summer_Translated": "Zuzu City organise son traditionnel défilé floral à la fin de l'été. La demande pour les {Crop:TextPlural} est énorme.",
+				"LewisFlowers_RE_Text_4_Fall_Translated": "Le concours annuel de bouquets de fleurs a besoin de matériel et recherche des {Crop:TextPlural}.",		
+				
+				"LewisFlowersMail_Translated": "@,^Je voulais te remercier d'avoir pris en charge ma commande spéciale. Tout le travail que tu as accompli a grandement amélioré l'image de Pelican Town.^Voici une 'Ruche' offerte par le Fonds Agricole de Pelican Town pour soutenir tes efforts à l'avenir.^^   -Lewis",
+				"LewisFlowersMail_Title_Translated": "Remerciements pour la Commande de Fleurs",
+				
+					
+				"LewisHundredFlowers_Name_Translated": "Commande des Cent Fleurs",
+				"LewisHundredFlowers_Text_Translated": "{Text} Toute personne qui expédie 100 fleurs dans le délai imparti recevra une récompense conséquente du Fonds Agricole de Pelican Town.",
+				"LewisHundredFlowers_Objective_0_Text_Translated": "Expédier 100 flowers.",
+				"LewisHundredFlowers_Objective_1_Text_Translated": "Récolter 100 flowers.",
+				"LewisHundredFlowers_RE_Text_0_Translated": "Les fleurs sont un thème important dans une nouvelle tendance décorative qui devient populaire récemment.",
+				"LewisHundredFlowers_RE_Text_1_Translated": "Une grande entreprise souhaite étudier les pétales de fleurs pour un tissu qu'elle fabrique.",
+				"LewisHundredFlowers_RE_Text_2_Spring_Translated": "Le 'Sweet Day' de Zuzu City approche. Les gens offrent des cadeaux, et les fleurs sont très populaires.",
+				"LewisHundredFlowers_RE_Text_2_Summer_Translated": "Le concours du 'Meilleur Nez de Parfumeur' approche et des fleurs sont nécessaires pour l'un des tests.",
+				"LewisHundredFlowers_RE_Text_2_Fall_Translated": "Avec l'hiver qui approche, les gens veulent des fleurs autour d'eux pour apporter de la joie et de la couleur dans leur vie.",		
+				
+				"LewisHundredFlowersMail_Translated": "@,^Merci pour ton travail acharné ! Cela a vraiment aidé à améliorer la réputation de Pelican Town.^Voici un 'Arroseur en Iridium' offert par le Fonds Agricole de Pelican Town pour t'aider à l'avenir.^^   -Lewis",
+				"LewisHundredFlowersMail_Title_Translated": "Remerciements pour la Commande des Cent Fleurs",
+				
+				
+				
+				"LewisFlowersLumisteriaFlowers_Name_Translated": "Commande de Fleurs",
+				"LewisFlowersLumisteriaFlowers_Text_Translated": "{Text} Toute personne qui expédie 40 {Crop:TextPlural} dans le délai imparti recevra une récompense conséquente du Fonds Agricole de Pelican Town.",
+				"LewisFlowersLumisteriaFlowers_Objective_0_Text_Translated": "Expédier 40 {Crop:TextPlural}.",
+				"LewisFlowersLumisteriaFlowers_Objective_1_Text_Translated": "Récolter 40 {Crop:TextPlural}.",
+				"LewisFlowersLumisteriaFlowers_RE_Text_0_Translated": "{Crop:TextPlural} asont en forte demande cette année.",
+				"LewisFlowersLumisteriaFlowers_RE_Text_1_Translated": "Apparemment, {Crop:TextPlural} sont la dernière tendance à Zuzu City.",
+				"LewisFlowersLumisteriaFlowers_RE_Text_2_Translated": "Une marque effectue des recherches pour son nouveau parfum et a besoin d'une grande quantité de {Crop:Text}.",
+				"LewisFlowersLumisteriaFlowers_RE_Text_3_Translated": "Avec la tendance qui rend les fleurs de saison populaires, tout le monde veut des {Crop:TextPlural} !",
+				"LewisFlowersLumisteriaFlowers_RE_Text_4_Spring_Translated": "Pour la prochaine danse des fleurs, Pelican Town a un grand besoin de {Crop:TextPlural}.",
+				"LewisFlowersLumisteriaFlowers_RE_Text_4_Summer_Translated": "Zuzu City organise son traditionnel défilé de fleurs à la fin de l'été. Il y a désormais une forte demande pour les {Crop:TextPlural}.",
+				"LewisFlowersLumisteriaFlowers_RE_Text_4_Fall_Translated": "Le concours annuel de bouquets de fleurs a besoin de matériel et souhaite des {Crop:TextPlural}.",		
+				"LewisFlowersLumisteriaFlowers_RE_Text_4_Winter_Translated": "Le festival des 'Fleurs d'Hiver' à Chestervale a besoin de {Crop:TextPlural}.",
+				
+				"LewisFlowersLumisteriaFlowersMail_Translated": "@,^Je voulais te remercier d'avoir pris en charge une autre de mes commandes spéciales.^Voici un paquet de graines spéciales offert par le Fonds Agricole de Pelican Town pour soutenir tes efforts à l'avenir.^^   -Lewis",
+				
+				"LewisFlowersLumisteriaFlowersMail_Title_Translated": "Remerciements pour la Commande de Fleurs",
+						
+				
+				//Forager
+				
+				
+				//Demetrius Foraging
+				"DemetriusForageItems_Name_Translated": "Commande de Récolte",
+				"DemetriusForageItems_Text_Translated": "{Text} Toute personne qui récolte 30 objets de cueillette et les livre à la réserve de Robin recevra une récompense.",
+				"DemetriusForageItems_Objective_0_Text_Translated": "Récolter 30 objets de cueillette.",
+				"DemetriusForageItems_Objective_1_Text_Translated": "Ajouter les objets de cueillette à la réserve dans la maison de Robin.",
+				"DemetriusForageItems_RE_Text_0_Translated": "J'étudie les ressources naturelles de la vallée.",
+				"DemetriusForageItems_RE_Text_1_Translated": "J'ai besoin d'échantillons pour une étude que je mène.",
+				
+				
+				"DemetriusForageItemsMail_Translated": "@,^Les spécimens que tu as récoltés sont très intéressants ! Mon étude progressera grâce à cela.^Un bon repas peut vraiment aider à obtenir de meilleurs résultats lorsque tu récoltes des échantillons. J'ai inclus quelques plats que je trouve particulièrement efficaces pour cet objectif.^^   -Demetrius",
+				"DemetriusForageItemsMail_Title_Translated": "Remerciements pour la Commande de Récolte",
+				
+				//Robin Pine Tar
+				"RobinPineTar_Name_Translated": "Commande de Résine de Pin",
+				"RobinPineTar_Text_Translated": "{Text} Toute personne qui récolte 20 Résines de Pin et les livre à la réserve de Robin recevra une récompense.",
+				"RobinPineTar_Objective_0_Text_Translated": "Récolter 20 Résines de Pin.",
+				"RobinPineTar_Objective_1_Text_Translated": "Ajouter les Résines de Pin à la réserve dans la maison de Robin.",
+				"RobinPineTar_RE_Text_0_Translated": "Une commande récente nécessite de grandes quantités de Résine de Pin et mon stock n'est pas suffisant.",
+				"RobinPineTar_RE_Text_1_Translated": "Je dois rapidement reconstituer mon stock de Résine de Pin.",
+				
+				"RobinPineTarMail_Translated": "@,^Je suis reconnaissante pour ton aide ! Lorsque tu travailles le bois, la Résine de Pin est vraiment utile.^Voici un peu d'Engrais pour Arbres que j'ai en excédent.^^   -Robin",
+				"RobinPineTarMail_Title_Translated": "Remerciements pour la Commande de Résine de Pin",
+				
+				
+				
+				//Generic
+				
+				
+				
+				
+				"EmilyDye_Name_Translated": "Commande de Teinture",
+				"EmilyDye_Text_Translated": "{Text} Toute personne qui récolte 25 {DyeItem:TextPlural} dans les temps recevra une récompense !",
+				"EmilyDye_Objective_0_Text_Translated": "Récolter ou ramasser 25 {DyeItem:TextPlural}.",
+				"EmilyDye_Objective_1_Text_Translated": "Expédier 25 {DyeItem:TextPlural}.",
+				"EmilyDye_RE_Text_0_Translated": "J'ai besoin de {DyeItem:TextPlural} frais pour faire des teintures personnalisées.",
+				"EmilyDye_RE_Text_1_Translated": "Je veux étudier comment les couleurs de {DyeItem:TextPlural} se comportent sur le tissu pour un futur projet.",
+
+				"EmilyDyeMail_Translated": "@,^Merci pour ton aide ! J'ai maintenant des tissus magnifiquement teintés.^Voici quelques vêtements que j'ai en trop.^^   -Emily",
+				
+				"EmilyDyeMail_Title_Translated": "Remerciements pour la Commande de Teinture",
+
+
+				//Mineral
+				"GuntherMinerals_Name_Translated": "Commande de Minéraux",
+				"GuntherMinerals_Text_Translated": "{Text}. 25 minéraux de n'importe quel type feront l'affaire. Dépose-les au comptoir du musée !   - Gunther",
+				"GuntherMinerals_Objective_0_Text_Translated": "Récolter 25 minéraux.",
+				"GuntherMinerals_Objective_1_Text_Translated": "Déposer les minéraux dans la boîte de dépôt au comptoir du musée.",
+				"GuntherMinerals_RE_Text_0_Translated": "Un de mes collègues veut des spécimens pour étudier les minéraux que la vallée peut offrir.",
+				"GuntherMinerals_RE_Text_1_Translated": "Un projet scientifique collecte des minéraux pour des expériences.",
+				
+				"GuntherMineralsMail_Translated": "@,^Tu as collecté des spécimens intéressants qui aideront à la recherche.^Pour encourager l'intérêt des gens pour les minéraux, ils t'offrent cette machine.^^   -Gunther",
+				"GuntherMineralsMail_Title_Translated": "Remerciements pour la Commande de Minéraux",
+
+							
+			
+				"GusCookware_Name_Translated": "Commande de Matériel de Cuisine",
+				"GusCookware_Text_Translated": "J'ai besoin que Clint refasse une grande partie de mon ensemble de cuisine, mais il manque de matériel. Toute personne qui peut en fournir recevra une récompense.    - Gus",
+				"GusCookware_Objective_0_Text_Translated": "Fabriquer 15 Barres de Cuivre.",
+				"GusCookware_Objective_1_Text_Translated": "Expédier 15 Barres de Cuivre.",
+				"GusCookware_Objective_2_Text_Translated": "Fabriquer 10 Barres de Fer.",
+				"GusCookware_Objective_3_Text_Translated": "Expédier 10 Barres de Fer.",
+
+				"GusCookwareMail_Translated": "@,^Cette nouvelle batterie de cuisine est géniale ; j'en avais vraiment besoin. Mes confitures et mes cannes en sucre ne sont pas les mêmes sans cuivre, tu sais ? Rien de mieux que d'avoir la répartition de chaleur parfaite.^Voici quelques Friandises du Mineur pour que tu puisses voir par toi-même !^^   -Gus",
+				"GusCookwareMail_Title_Translated": "Remerciements pour la Commande de Matériel de Cuisine",
+				
+				
+}
