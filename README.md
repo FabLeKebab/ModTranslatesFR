@@ -27,6 +27,7 @@ Actuellement, j'ai traduit les mods suivants en français :
 - [**ExpandedStorage**](https://www.nexusmods.com/stardewvalley/mods/7431)
 - [**FashionSense**](https://www.nexusmods.com/stardewvalley/mods/9969)
 - [**Love Festival**](https://www.nexusmods.com/stardewvalley/mods/17819)
+- [**Lumisteria Special Orders**](https://www.nexusmods.com/stardewvalley/mods/7417)
 - [**Quality Bait**](https://www.nexusmods.com/stardewvalley/mods/16832)
 - [**ResponseCore**] ///
 - [**SkillRings**](https://www.nexusmods.com/stardewvalley/mods/7515)
