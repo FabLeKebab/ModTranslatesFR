@@ -15,7 +15,7 @@ Actuellement, j'ai traduit les mods suivants en français :
 - [**[CP] Miihaus Leah Event Expansion**](https://www.nexusmods.com/stardewvalley/mods/28299)
 - [**[CP] Miihaus Penny Event Expansion**](https://www.nexusmods.com/stardewvalley/mods/16279)
 - [**[CP] Miihaus Shane Event Expansion**](https://www.nexusmods.com/stardewvalley/mods/24068)
-- [**[CP] UniqueDatingResponses**] ///
+- [**[CP] UniqueDatingResponses**](https://www.nexusmods.com/stardewvalley/mods/3312)
 - [**[CP] Adoptable Animals**](https://www.nexusmods.com/stardewvalley/mods/23885)
 - [**Better Pigs**](https://www.nexusmods.com/stardewvalley/mods/16879)
 - [**BiggerBackpack**](https://www.nexusmods.com/stardewvalley/mods/1845)
@@ -29,7 +29,7 @@ Actuellement, j'ai traduit les mods suivants en français :
 - [**Love Festival**](https://www.nexusmods.com/stardewvalley/mods/17819)
 - [**Lumisteria Special Orders**](https://www.nexusmods.com/stardewvalley/mods/7417)
 - [**Quality Bait**](https://www.nexusmods.com/stardewvalley/mods/16832)
-- [**ResponseCore**] ///
+- [**ResponseCore**](https://www.nexusmods.com/stardewvalley/mods/8284)
 - [**SkillRings**](https://www.nexusmods.com/stardewvalley/mods/7515)
 - [**ThisRoundsOnMe**](https://www.nexusmods.com/stardewvalley/mods/27683)
 - [**Wild Animals**](https://www.nexusmods.com/stardewvalley/mods/9063)
